@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.rhinoishere.sweetapp"
-        version   = "0.0.0.0.1">
+        version   = "99.99">
     <name>rhino's sweet PhoneGap app</name>
 
     <description>
